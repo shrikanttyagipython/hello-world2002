@@ -1,0 +1,14 @@
+diff --git a/logs.txt b/logs.txt
+index 91f203d..71e3511 100644
+--- a/logs.txt
++++ b/logs.txt
+@@ -1,6 +1,6 @@
+ 10
+ 20
++--twenty
+ 30
+-adads
+-aDD
++adadsskt
+ aadad
+\ No newline at end of file
