@@ -1,6 +1,5 @@
 10
-20
-twenty skt
+20skt
+twenty  skt
 30
-skt
 aadad
