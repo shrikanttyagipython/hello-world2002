@@ -2,6 +2,7 @@
 20skt
 twenty  skt
 30
-aadad
 skt100
 tyagi100
+skt200
+tyagi300
